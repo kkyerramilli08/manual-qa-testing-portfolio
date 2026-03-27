@@ -1,5 +1,21 @@
 # BVA & ECP Test Data
 This project contains test data using BVA and ECP techniques.
+## 📌 Objective
+Apply Boundary Value Analysis and Equivalence Partitioning.
+
+---
+
+## 📊 Test Coverage
+- Valid inputs
+- Invalid inputs
+- Edge cases
+
+---
+
+## 📁 File
+- BVA_ECP_Test_Data.xlsx
+  
+---
 
 ## 📷 Screenshots
 
@@ -11,3 +27,8 @@ This project contains test data using BVA and ECP techniques.
 
 ### Test Data Example
 ![Test Data Screenshot](screenshots/testdata.png)
+
+## ✅ Skills Demonstrated
+- BVA
+- ECP
+- Test data design
