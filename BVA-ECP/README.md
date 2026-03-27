@@ -1,4 +1,4 @@
-# BVA & ECP Test Data
+# BVA & ECP Test Data – Branch Name Validation
 This project contains test data using BVA and ECP techniques.
 ## 📌 Objective
 Apply Boundary Value Analysis and Equivalence Partitioning.
@@ -13,8 +13,7 @@ Apply Boundary Value Analysis and Equivalence Partitioning.
 ---
 
 ## 📁 File
-- BVA_ECP_Test_Data.xlsx
-  
+- [BVA_ECP_Test_Data.xlsx](./BVA_ECP_Test_Data.xlsx)  
 ---
 
 ## 📷 Screenshots
@@ -29,6 +28,6 @@ Apply Boundary Value Analysis and Equivalence Partitioning.
 ![Test Data Screenshot](screenshots/testdata.png)
 
 ## ✅ Skills Demonstrated
-- BVA
-- ECP
-- Test data design
+- Boundary Value Analysis (BVA)
+- Equivalence Partitioning (ECP)
+- Test Data Design
