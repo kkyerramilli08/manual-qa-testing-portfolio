@@ -1,6 +1,6 @@
 ## 📷 Screenshots
 ### Input Validation Example
-![BVA Screenshot](screenshots.inputvalidation.png)
+![BVA-ECP screenshot](screenshots/inputvalidation.png)
 ### Test Data Example
 ![BVA Screenshot](screenshots/testdata.png)
 ### Boundary Values
