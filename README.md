@@ -1,7 +1,11 @@
-# Manual-qa-testing-portfolio
+# Software QA Portfolio | Manual Testing, API Testing & Automation
+
 Hi, I'm Kamal Kiran 👋  
-Manual QA Tester building real-world projects.
-Testing portfolio including test cases, BVA & ECP test data, and real-world testing scenarios.
+A QA Engineer focused on delivering high-quality software through structured testing and defect analysis.
+
+This portfolio showcases real-world QA projects including manual testing, test case design, BVA & ECP techniques, and bug reporting. It also reflects my growing expertise in API testing using Postman and automation testing with Playwright.
+
+I aim to ensure product reliability, usability, and performance by identifying defects early and validating application behavior effectively.
 
 ## 📌 Projects
 
