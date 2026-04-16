@@ -23,7 +23,7 @@ To validate the login functionality of Gmail using different test scenarios incl
 
 ## 📂 Files
 
-- Test_Cases.xlsx (contains all test scenarios)
+- Gmail_Login_Test_Cases.xlsx (contains all test scenarios)
 
 ---
 
