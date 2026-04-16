@@ -1,11 +1,13 @@
 # Software QA Portfolio | Manual Testing, API Testing & Automation
 
 Hi, I'm Kamal Kiran 👋  
-A QA Engineer focused on delivering high-quality software through structured testing and defect analysis.
+A QA Engineer focused on delivering high-quality software through structured testing, defect analysis, and continuous improvement.
 
-This portfolio showcases real-world QA projects including manual testing, test case design, BVA & ECP techniques, and bug reporting. It also reflects my growing expertise in API testing using Postman and automation testing with Playwright.
+This portfolio showcases real-world QA projects including manual testing, test case design, BVA & ECP techniques, and bug reporting. It also reflects my growing expertise in API testing using Postman and automation testing using Playwright (Python).
 
 I aim to ensure product reliability, usability, and performance by identifying defects early and validating application behavior effectively.
+
+🔍 Strong focus on real-world testing scenarios and practical QA implementation.
 
 ## 📌 Projects
 
