@@ -1,6 +1,6 @@
 # User Registration Form Testing – Manual QA Project
 
-🔗 Application URL: https://kirantesting.com.form/
+🔗 Application URL: https://kirantesting.com.form/ (./screenshots/FRS-Form.png)
 
 ## 📌 Objective
 To validate registration functionality using positive, negative, and boundary test scenarios.
