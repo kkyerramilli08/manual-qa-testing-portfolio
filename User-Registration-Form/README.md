@@ -13,7 +13,7 @@ To validate registration functionality using positive, negative, and boundary te
 - Error message validation
 
 ## 📁 Files
-- User-Reg-Form-Project.xlsx (Includes 10+ functional and validation test cases)
+- [User-Reg-Form-Project.xlsx](./User-Reg-Form-Project.xlsx) (Includes validation,mandatory,fail test cases)
 
 ## 📸 Screenshots
 
