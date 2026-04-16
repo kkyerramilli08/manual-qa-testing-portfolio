@@ -1,4 +1,4 @@
-# manual-qa-testing-portfolio
+# Manual-qa-testing-portfolio
 Hi, I'm Kamal Kiran 👋  
 Manual QA Tester building real-world projects.
 Testing portfolio including test cases, BVA & ECP test data, and real-world testing scenarios.
