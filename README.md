@@ -32,3 +32,9 @@ Aspiring Junior QA Engineer with hands-on experience in manual testing, test cas
 - Learning Automation Testing with Playwright (Python)  
 - Building real-world QA portfolio projects
 
+## 📌 Tools
+
+- Postman  
+- Playwright (Python - Learning)  
+- Git & GitHub
+
