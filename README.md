@@ -22,6 +22,8 @@ I aim to ensure product reliability, usability, and performance by identifying d
 
 ### 🔹 Banking Application Testing
 [View Project](./Banking-App)
+- [User-Reg-Form-Project.xlsx](./User-Reg-Form-Project.xlsx) (Includes validation,mandatory,fail test cases)
+
 
 ## 🛠 Skills
 - Test Case Design & Execution  
