@@ -9,7 +9,7 @@ Testing portfolio including test cases, BVA & ECP test data, and real-world test
 [View Project](./BVA-ECP)
 
 ### 🔹 Gmail Login Testing
-[View Project](./Gmail_login)
+[View Project](./Gmail-Login-Testing)
 
 ### 🔹 User Registration Form Testing
 [View Project](./Registration-Form)
