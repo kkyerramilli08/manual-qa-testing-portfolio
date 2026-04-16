@@ -9,7 +9,6 @@ To validate registration functionality using positive, negative, and boundary te
 - Valid registration scenarios
 - Invalid inputs validation
 - Required field validation
-- Password rules validation
 - Error message validation
 
 ## 📁 Files
