@@ -23,4 +23,11 @@ Testing portfolio including test cases, BVA & ECP test data, and real-world test
 - Functional Testing  
 - Bug Reporting  
 ## 🎯 Goal
-Looking for entry-level QA opportunities and freelance testing work.
+Aspiring Junior QA Engineer with hands-on experience in manual testing, test case design, and real-world application testing. Actively seeking opportunities to contribute to quality assurance processes and grow in software testing and automation.
+
+## 🚀 Current Focus
+
+- Strengthening API Testing using Postman  
+- Learning Automation Testing with Playwright (Python)  
+- Building real-world QA portfolio projects
+
