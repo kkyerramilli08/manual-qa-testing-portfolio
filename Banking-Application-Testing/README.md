@@ -42,7 +42,8 @@ To validate:
 
 ## 📁 Files Included
 
-- 📄 Test Case Document: `Test_Case_Banking_Application.xlsx`
+- [Test_Case_Banking_Application.xlsx](./Test_Case_Banking_Application.xlsx)
+
 - 📸 Screenshots: Available in `/screenshots` folder
 
 ---
