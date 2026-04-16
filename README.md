@@ -18,10 +18,11 @@ Testing portfolio including test cases, BVA & ECP test data, and real-world test
 [View Project](./Banking-App)
 
 ## 🛠 Skills
-- Test Case Design  
-- BVA & ECP  
-- Functional Testing  
-- Bug Reporting  
+- Test Case Design & Execution  
+- Boundary Value Analysis (BVA) & Equivalence Partitioning (ECP)  
+- Functional & UI Testing  
+- Bug Reporting & Defect Tracking
+ 
 ## 🎯 Goal
 Aspiring Junior QA Engineer with hands-on experience in manual testing, test case design, and real-world application testing. Actively seeking opportunities to contribute to quality assurance processes and grow in software testing and automation.
 
