@@ -1,6 +1,8 @@
 # User Registration Form Testing – Manual QA Project
 
-🔗 Application URL: https://kirantesting.com.form/ (./screenshots/FRS-Form.png)
+🔗 Application Type: Demo User Registration Form (Static Testing)
+
+📸 Reference: See screenshots below for UI and validation behavior
 
 ## 📌 Objective
 To validate registration functionality using positive, negative, and boundary test scenarios.
@@ -55,3 +57,6 @@ To validate registration functionality using positive, negative, and boundary te
 - Learned real-world form validations
 - Practiced handling edge cases
 - Improved test case structuring
+
+⚠️ Note: This project is based on a sample registration form UI used for testing practice. 
+All validations and test scenarios are derived from the form design and expected behavior.
