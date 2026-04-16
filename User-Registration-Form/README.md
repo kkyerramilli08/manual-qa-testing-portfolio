@@ -1,6 +1,6 @@
 # User Registration Form Testing – Manual QA Project
 
-🔗 Application Type: Demo User Registration Form (Static Testing)
+🔗 Application Type: Demo User Registration Form (Static UI-Based Testing)
 
 📸 Reference: See screenshots below for UI and validation behavior.
 
