@@ -2,7 +2,7 @@
 
 🔗 Application Type: Demo User Registration Form (Static Testing)
 
-📸 Reference: See screenshots below for UI and validation behavior
+📸 Reference: See screenshots below for UI and validation behavior.
 
 ## 📌 Objective
 To validate registration functionality using positive, negative, and boundary test scenarios.
