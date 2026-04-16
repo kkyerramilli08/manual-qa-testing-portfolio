@@ -24,7 +24,8 @@ Testing portfolio including test cases, BVA & ECP test data, and real-world test
 - Bug Reporting & Defect Tracking
  
 ## 🎯 Goal
-Aspiring Junior QA Engineer with hands-on experience in manual testing, test case design, and real-world application testing. Actively seeking opportunities to contribute to quality assurance processes and grow in software testing and automation.
+
+Aspiring QA Engineer with hands-on experience in manual testing, test case design, and real-world application testing. Skilled in identifying defects, validating functionalities, and ensuring product quality. Currently expanding expertise in API testing and automation.
 
 ## 🚀 Current Focus
 
