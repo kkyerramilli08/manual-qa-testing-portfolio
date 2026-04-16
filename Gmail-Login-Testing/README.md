@@ -13,7 +13,6 @@ To validate the login functionality of Gmail using different test scenarios incl
 ---
 
 ## 🧪 Test Coverage
-## Test Coverage
 
 - Positive login scenarios
 - Negative scenarios
@@ -25,7 +24,7 @@ To validate the login functionality of Gmail using different test scenarios incl
 
 ## 📂 Files
 
-- - [Gmail_Login_Test_Cases.xlsx](./Gmail_Login_Test_Cases.xlsx) (contains all test scenarios)
+- - [Gmail_Login_Test_Cases.xlsx](./Gmail_Login_Test_Cases.xlsx) - (Includes 10+ functional, negative, and boundary test cases)
 
 ---
 
