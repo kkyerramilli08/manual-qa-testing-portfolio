@@ -50,12 +50,12 @@ To validate:
 
 ## 🔄 Test Scenarios
 
-###🔹 **Links Tab**
+🔹 **Links Tab**
 ### ✔ TC001 – Homepage Links Validation
 - Verify homepage loads successfully
 - Validate Personal, Corporate, International banking links
 
-###🔹 **Banker Login Tab**
+🔹 **Banker Login Tab**
 ### ✔ TC001 – Banker Login Validation
 - Verify login page accessibility
 - Validate branch selection
