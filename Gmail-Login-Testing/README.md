@@ -1,5 +1,7 @@
 # Gmail Login Testing – Manual QA Project
 
+🔗 Application URL: https://mail.google.com
+
 This project focuses on testing the Gmail login functionality using manual testing techniques.
 
 ---
@@ -11,12 +13,13 @@ To validate the login functionality of Gmail using different test scenarios incl
 ---
 
 ## 🧪 Test Coverage
+## Test Coverage
 
-• Positive login scenarios (valid credentials)
-• Negative scenarios (invalid email/password)
-• Boundary cases (empty inputs, format validation)
-• Error message validation
-• Navigation & redirection checks
+- Positive login scenarios
+- Negative scenarios
+- Boundary cases
+- Error message validation
+- Navigation & redirection checks
 
 ---
 
