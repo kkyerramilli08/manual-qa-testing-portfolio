@@ -34,27 +34,27 @@ To evaluate the product from a small business user perspective and identify usab
 
 ## Identified Usability Issues & Improvements
 
-1. CTA Visibility
+### 1. CTA Visibility
 **Issue:** CTA button is not prominent above the fold  
 **Impact:** Users may not notice main action → lower conversions  
 **Suggestion:** Increase size, contrast, and visibility  
 
-2. Input Guidance
+### 2. Input Guidance
 **Issue:** Input box lacks example text  
 **Impact:** New users may feel confused about what to enter  
 **Suggestion:** Add placeholder or sample review text  
 
-3. Output Clarity
+### 3. Output Clarity
 **Issue:** Output section lacks clear action buttons  
 **Impact:** Users may not know how to use/download result  
 **Suggestion:** Add "Copy" and "Download" buttons  
 
-4. Navigation Flow
+### 4. Navigation Flow
 **Issue:** Steps are not clearly defined  
 **Impact:** Users may not understand process flow  
 **Suggestion:** Add step indicators (Input → Generate → Output)  
 
-5. Pricing Clarity
+### 5. Pricing Clarity
 **Issue:** Pricing benefits are not clearly differentiated  
 **Impact:** Users may hesitate to choose a plan  
 **Suggestion:** Highlight key differences and value clearly
