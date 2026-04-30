@@ -31,3 +31,44 @@ To evaluate the product from a small business user perspective and identify usab
 ## Tools Used
 - Manual Testing
 - Browser Testing
+
+## Identified Usability Issues & Improvements
+
+1. CTA Visibility
+- Primary CTA button could be more prominent above the fold
+- Suggested improvement: Increase contrast and size
+
+2. Input Guidance
+- Input box lacks placeholder examples for new users
+- Suggested improvement: Add sample review text
+
+3. Output Clarity
+- Generated output lacks clear “copy/download” indication
+- Suggested improvement: Add action buttons
+
+4. Navigation Flow
+- Users may need clearer step indication (Input → Generate → Output)
+- Suggested improvement: Add step indicators
+
+5. Pricing Clarity
+- Pricing benefits could be more clearly differentiated
+
+## Screenshots
+
+### Homepage
+![Homepage](screenshots/HomePage.png)
+
+### CTA & Navigation
+![CTA](screenshots/HomePageCTA.png)
+
+### Input Box
+![Input](screenshots/ReviewInputBox.png)
+
+### Output Preview
+![Output](screenshots/PostPreview.png)
+
+### Customization Options
+![Customization](screenshots/CustomizationOptions.png)
+
+### Pricing Section
+![Pricing](screenshots/PricingSection.png)
