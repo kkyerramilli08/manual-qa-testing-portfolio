@@ -24,7 +24,7 @@ To evaluate the product from a small business user perspective and identify usab
 - UX improvement suggestions
 
 ## Folder Contents
-- `usability-report.docx` → Complete QA usability report
+- `reviewstopost-usability-report.docx` → Complete QA usability report
 - `screenshots/` → Homepage, workflow, customization, pricing
 - `README.md` → Project overview
 
