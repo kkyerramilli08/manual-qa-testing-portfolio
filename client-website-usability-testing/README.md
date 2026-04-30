@@ -4,8 +4,6 @@
 
 📄 [View Full Usability Report](./reviewstopost-usability-report.docx)
 
-This project contains usability testing performed on a live SaaS web application...
-
 This project contains usability testing performed on a live SaaS web application designed to convert customer reviews into social media posts.
 
 ## Objective
