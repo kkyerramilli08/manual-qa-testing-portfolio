@@ -23,6 +23,10 @@ I aim to ensure product reliability, usability, and performance by identifying d
 ### 🔹 Banking Application Testing
 [View Project](./Banking-Application-Testing/)
 
+### 🔹 E-commerce-jira-testing-project
+[View Project](./E-commerce-jira-testing-project/)
+
+
 ## 🛠 Skills
 - Test Case Design & Execution  
 - Boundary Value Analysis (BVA) & Equivalence Partitioning (ECP)  
