@@ -11,20 +11,23 @@ I aim to ensure product reliability, usability, and performance by identifying d
 
 ## 📌 Projects
 
-### 🔹 BVA & ECP Test Data
-[View Project](./BVA-ECP)
+### 🔹 client-website-usability-testing
+[View Project](./client-website-usability-testing)
 
-### 🔹 Gmail Login Testing
-[View Project](./Gmail-Login-Testing)
-
-### 🔹 User Registration Form Testing
-[View Project](./User-Registration-Form)
+### 🔹 E-commerce-jira-testing-project
+[View Project](./E-commerce-jira-testing-project/)
 
 ### 🔹 Banking Application Testing
 [View Project](./Banking-Application-Testing/)
 
-### 🔹 E-commerce-jira-testing-project
-[View Project](./E-commerce-jira-testing-project/)
+### 🔹 User Registration Form Testing
+[View Project](./User-Registration-Form)
+
+### 🔹 Gmail Login Testing
+[View Project](./Gmail-Login-Testing)
+
+### 🔹 BVA & ECP Test Data
+[View Project](./BVA-ECP)
 
 
 ## 🛠 Skills
