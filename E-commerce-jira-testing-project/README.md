@@ -25,9 +25,9 @@ To simulate a real-world QA workflow including requirement analysis, test planni
 - Add product to cart
 - Admin adding products to selling list
 
-## Screenshots
+# Screenshots
 
-## Epic & Stories
+# Epic & Stories
 
 ### Default Dashboard
 ![Epic](./screenshots/defaultdashboard.png)
@@ -38,7 +38,7 @@ To simulate a real-world QA workflow including requirement analysis, test planni
 ### User Stories Linked to Epic
 ![Stories](./screenshots/stories-linked.png)
 
-## Sprint Execution
+# Sprint Execution
 
 ### Backlog & Sprint Planning
 ![Backlog](./screenshots/backlog-view.png)
@@ -46,7 +46,7 @@ To simulate a real-world QA workflow including requirement analysis, test planni
 ### Sprint Started
 ![Sprint Start](./screenshots/sprint-started.png)
 
-## Test Execution
+# Test Execution
 
 ### Subtasks (Test Cases)
 ![Subtasks](./screenshots/subtasks-list.png)
@@ -58,7 +58,7 @@ To simulate a real-world QA workflow including requirement analysis, test planni
 ![Sprint Complete](./screenshots/sprint-complete.png)
 
 
-## Bug Tracking
+# Bug Tracking
 
 ### Bug Created
 ![Bug](./screenshots/bug-created.png)
@@ -66,7 +66,7 @@ To simulate a real-world QA workflow including requirement analysis, test planni
 ### Bug in Sprint
 ![Bug Sprint](./screenshots/bug-in-sprint.png)
 
-## Zephyr Test Management
+# Zephyr Test Management
 
 ### Test Cycle Created
 ![Test Cycle](./screenshots/test-cycle.png)
@@ -74,7 +74,7 @@ To simulate a real-world QA workflow including requirement analysis, test planni
 ### Test Cycle Executed
 ![Execution](./screenshots/test-execution-done.png)
 
-## Application Testing
+# Application Testing
 
 ### Homepage
 ![Home](./screenshots/homepage.png)
