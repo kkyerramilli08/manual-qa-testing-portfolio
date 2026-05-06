@@ -97,9 +97,10 @@ I specialize in manual testing, test case design, and bug reporting using Jira a
 
 ## 🚀 Current Focus
 
-- Strengthening API Testing using Postman  
-- Building real-world QA testing projects  
-- Enhancing test design and bug reporting skills  
+- Strengthening API Testing using Postman
+- Building real-world QA testing projects
+- Developing automation testing skills using Playwright, Python & Pytest
+- Improving defect analysis and reporting workflows 
 
 ---
 
