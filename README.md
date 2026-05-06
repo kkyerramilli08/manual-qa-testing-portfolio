@@ -1,6 +1,7 @@
 👨‍💻 Software QA Portfolio | Manual Testing | Jira | Zephyr
 
 Hi, I'm Kamal Kiran 👋
+
 A detail-oriented QA Engineer focused on delivering high-quality software through structured testing, defect analysis, and real-world project execution.
 I specialize in manual testing, test case design, and bug reporting using Jira and Zephyr. This portfolio demonstrates my hands-on experience with real-world applications.
 
